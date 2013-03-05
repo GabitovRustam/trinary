@@ -8,9 +8,7 @@
 ���������� ����� � ������ �������.
 ����������� ��������� (normAfterDiv).*/
 {
-    signed char curTrit;
-    int i;
-
+    yu334
     //�������� ������� �� ����
     if (measureMa[mSize-1] == 0)
     {
